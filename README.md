@@ -1,4 +1,4 @@
 tools
 =====
 
-Tools of MySQL, Shell, Python.
+Tools of Python.
