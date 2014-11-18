@@ -56,7 +56,7 @@
 > Connect to MySQL using MySQLdb package, and insert the image to MySQL.
 > Before use this scripts, login as robin into mysql, and execute:
 
-``` sql
+```sql
 	mysql> CREATE TABLE Images(Id INT PRIMARY KEY, Data MEDIUMBLOB);
 ```
 
