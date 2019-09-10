@@ -90,8 +90,6 @@ Enjoy!
 
 ## About Author ##
 
-温国兵
-
 * Robin Wen
 * Gmail：blockxyz@gmail.com
 * Blog：http://dbarobin.com
